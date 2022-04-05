@@ -35,6 +35,7 @@
     "gulp-webp-html-nosvg": "^1.0.6",
     "gulp-webpcss": "^1.1.1",
     "gulp-zip": "^5.1.0",
+    "node-normalize-scss": "^8.1.2",
     "sass": "^1.49.11",
     "vinyl-ftp": "^0.6.1",
     "webp-converter": "2.2.3",
